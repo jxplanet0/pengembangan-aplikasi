@@ -1,10 +1,10 @@
-### 🛒 Dashboard Analisis Online Retail
+# 🛒 Dashboard Analisis Online Retail
 Dashboard interaktif untuk menganalisis data transaksi retail online menggunakan Streamlit dan Plotly.
 
-### 📋 Deskripsi
+# 📋 Deskripsi
 Dashboard ini menyediakan visualisasi dan analisis komprehensif dari dataset Online Retail UCI, yang berisi transaksi retail online dari UK periode 2010-2011. Dashboard dilengkapi dengan berbagai KPI, grafik interaktif, dan filter untuk eksplorasi data yang mendalam.
 
-### ✨ Fitur Utama
+# ✨ Fitur Utama
 
 ## 📊 Key Performance Indicators (KPI)
 
@@ -38,14 +38,14 @@ NumPy: Komputasi numerik
 
 
 
-### 📦 Instalasi
+# 📦 Instalasi
 
-# 1. Clone atau Download Repository
+## 1. Clone atau Download Repository
 ```bash
 git clone <repository-url>
 cd online-retail-dashboard
 ```
-# 2. Install Dependencies
+## 2. Install Dependencies
 ```bash
 bashpip install -r requirements.txt
 ```
@@ -53,7 +53,7 @@ Atau install manual:
 ```bash
 pip install streamlit pandas plotly numpy
 ```
-# 3. Download Dataset
+## 3. Download Dataset
 Download dataset dari UCI Machine Learning Repository dan simpan sebagai online-retail-dataset.csv di direktori yang sama dengan aplikasi.
 Struktur file yang diperlukan:
 ```text
